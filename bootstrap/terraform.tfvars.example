@@ -1,0 +1,2 @@
+﻿bucket_name    = "tfstate-web-platform-youraccount-eu-central-1"
+dynamodb_table = "tfstate-locks-web-platform-youraccount"
